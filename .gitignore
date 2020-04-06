@@ -1,0 +1,17 @@
+# build artifacts
+build/
+build*/
+
+# IDE settings
+.vs/
+.vscode/
+CMakeSettings.json
+
+# library and debug files
+*.pdb
+*.lib
+*.dll
+*.a
+
+# misc
+trash/
